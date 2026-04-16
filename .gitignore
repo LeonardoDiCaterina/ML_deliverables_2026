@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+.DS_Store
+data/Exercise1.csv
+data/stocks_aapl.csv
+data/titanic.csv
+data/weather_nyc.csv
